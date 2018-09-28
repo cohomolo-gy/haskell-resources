@@ -1,12 +1,12 @@
 # haskell-resources
 A List of Foundational Haskell Papers 
 
-## The Beginning: The Eugenio Moggi Papers
+### The Beginning: The Eugenio Moggi Papers
 
 - [Notions of Computations over Monads](https://core.ac.uk/download/pdf/21173011.pdf)
 - [Computational Lambda Calculus and Monads](https://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf)
 
-## Haskell Semantics and Design Spaces
+### Haskell Semantics and Design Spaces
 
 - [Semantics](https://www.microsoft.com/en-us/research/wp-content/uploads/1991/03/A-Static-Semantics-for-Haskell_small.pdf)
 - [Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/04/classhask.pdf)
@@ -20,9 +20,9 @@ A List of Foundational Haskell Papers
 - [Type Families pt. 2](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/at-syns.pdf)
 - [GADTs](https://ecommons.cornell.edu/bitstream/handle/1813/5614/TR2003-1901.pdf?sequence=1)
 - [First Class Modules in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/first_class_modules.pdf)
-- [Kind Promotion](https://www.microsoft.com/en-us/research/publication/giving-haskell-a-promotion/)
+- [Kind Promotion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p53-yorgey.pdf)
 
-## Type Systems
+### Type Systems
 
 - [Lambda Calculus with Types](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 - [Hindley-Milner Systems](http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf)
@@ -30,7 +30,7 @@ A List of Foundational Haskell Papers
 - [System F with type equality coercion](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fext-f%2Ftldi22-sulzmann-with-appendix.pdf)
 - [System FC with Kind Equality](https://cs.brynmawr.edu/~rae/papers/2013/fckinds/fckinds-extended.pdf)
 
-## Misc Parametricity
+### Misc Parametricity
 
 - [Theorems for Free](http://ecee.colorado.edu/ecen5533/fall11/reading/free.pdf)
 - [Free theorems for TyCons](http://www.janis-voigtlaender.eu/papers/FreeTheoremsInvolvingTypeConstructorClasses.pdf)
@@ -38,7 +38,7 @@ A List of Foundational Haskell Papers
 - [Type Derivatives and Typed Holes](http://strictlypositive.org/diff.pdf)
 - [Suggesting Valid Hole Fits](https://mpg.is/papers/gissurarson2018suggesting.pdf)
 
-## Misc TypeChecking + PLT
+### Misc TypeChecking + PLT
 
 - [Classic Conor McBride](http://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
 - [Parametric HOAS](http://adam.chlipala.net/papers/PhoasICFP08/PhoasICFP08.pdf)
