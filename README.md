@@ -45,7 +45,7 @@
 - [Tutorial on Bidirectional Type Inference](http://davidchristiansen.dk/tutorials/bidirectional.pdf)
 - [Tutorial Implementation of Dependent Types](https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf)
 - [Pfenning's Notes on Bidirectional Type Inference](http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/15-bidirectional.pdf)
-- [EdK's bound library has a ton of comparisons](https://www.schoolofhaskell.com/user/edwardk/bound)
+- [EdK's `bound` Library Comparisons](https://www.schoolofhaskell.com/user/edwardk/bound)
 - [Bidirectional Typechecking for Higher Rank Polymorphism](https://www.cl.cam.ac.uk/~nk480/bidir.pdf)
 - [Tutorial Implementation of Hindley-Milner](https://pdfs.semanticscholar.org/8983/233b3dff2c5b94efb31235f62bddc22dc899.pdf)
 - [De Bruijn Indices](https://www.cs.ox.ac.uk/richard.bird/online/BirdPaterson99DeBruijn.pdf)
