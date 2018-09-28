@@ -24,6 +24,7 @@
 #### Type Systems
 
 - [Lambda Calculus with Types](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
+- [The Call by Need Lambda Calculus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1889&rep=rep1&type=pdf)
 - [Hindley-Milner Systems](http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf)
 - [Generalized Hindley-Milner Systems](http://soft.vub.ac.be/~cfscholl/Capita-Selecta-2015/papers/2002%20Heeren.pdf)
 - [System F with type equality coercion](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fext-f%2Ftldi22-sulzmann-with-appendix.pdf)
