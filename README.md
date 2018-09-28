@@ -20,6 +20,7 @@
 - [GADTs](https://ecommons.cornell.edu/bitstream/handle/1813/5614/TR2003-1901.pdf?sequence=1)
 - [First Class Modules in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/first_class_modules.pdf)
 - [Kind Promotion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p53-yorgey.pdf)
+- [Stream Fusion. From Lists to Streams to Nothing at All](http://fun.cs.tufts.edu/stream-fusion.pdf)
 
 #### Type Systems
 
