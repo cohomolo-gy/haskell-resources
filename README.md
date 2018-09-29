@@ -1,13 +1,15 @@
-## A List of Foundational Haskell Papers 
+## A List of Foundational Haskell Papers
 
 #### The Beginning: The Eugenio Moggi Papers
 
 - [Notions of Computations over Monads](https://core.ac.uk/download/pdf/21173011.pdf)
 - [Computational Lambda Calculus and Monads](https://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf)
+- [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 
 #### Haskell Semantics and Design Spaces
 
 - [Semantics](https://www.microsoft.com/en-us/research/wp-content/uploads/1991/03/A-Static-Semantics-for-Haskell_small.pdf)
+- [How to make ad hoc polymorphism less ad hoc](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
 - [Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/04/classhask.pdf)
 - [Lazy State Threads](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
 - [General State](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf)
@@ -50,3 +52,16 @@
 - [Tutorial Implementation of Hindley-Milner](https://pdfs.semanticscholar.org/8983/233b3dff2c5b94efb31235f62bddc22dc899.pdf)
 - [De Bruijn Indices](https://www.cs.ox.ac.uk/richard.bird/online/BirdPaterson99DeBruijn.pdf)
 - [The Stitch Type Checker](https://cs.brynmawr.edu/~rae/papers/2018/stitch/stitch.pdf)
+
+#### Functional pearls
+
+- [The countdown problem](http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf)
+- [A program to solve Sudoku](https://www.cs.tufts.edu/~nr/cs257/archive/richard-bird/sudoku.pdf)
+- [Calculating correct compilers](http://www.cs.nott.ac.uk/~pszgmh/ccc.pdf)
+- [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
+- [Trees that grow](https://www.microsoft.com/en-us/research/uploads/prod/2016/11/trees-that-grow.pdf)
+
+#### Algebra of programming
+
+- [Functional programming with Bananas, Lenses, and Barbed Wire](https://maartenfokkinga.github.io/utwente/mmf91m.pdf)
+- [Origami programming](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/origami.pdf)
