@@ -53,6 +53,8 @@
 - [Tutorial Implementation of Hindley-Milner](https://pdfs.semanticscholar.org/8983/233b3dff2c5b94efb31235f62bddc22dc899.pdf)
 - [De Bruijn Indices](https://www.cs.ox.ac.uk/richard.bird/online/BirdPaterson99DeBruijn.pdf)
 - [The Stitch Type Checker](https://cs.brynmawr.edu/~rae/papers/2018/stitch/stitch.pdf)
+- [Boxes go Bananas](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1031&context=cis_reports)
+
 
 #### Functional pearls
 
@@ -61,8 +63,14 @@
 - [Calculating correct compilers](http://www.cs.nott.ac.uk/~pszgmh/ccc.pdf)
 - [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
 - [Trees that grow](https://www.microsoft.com/en-us/research/uploads/prod/2016/11/trees-that-grow.pdf)
+- [I am not a Number, I am a Free Variable!](http://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
 
 #### Algebra of programming
 
 - [Functional programming with Bananas, Lenses, and Barbed Wire](https://maartenfokkinga.github.io/utwente/mmf91m.pdf)
 - [Origami programming](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/origami.pdf)
+- [A tutorial on the universality and expressiveness of fold](http://moss.cs.iit.edu/cs495/universal-fold.pdf)
+- [Unifying Structured Recursion Schemes](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf)
+- [Bananas in Space](http://www.cs.nott.ac.uk/~pszgmh/bananas.pdf)
+- [Conjugate Hylomorphisms](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf)
+- [Adjoint Folds](https://www.cs.ox.ac.uk/ralf.hinze/publications/SCP-78-11.pdf)
