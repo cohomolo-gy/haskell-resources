@@ -43,7 +43,6 @@
 
 #### Misc TypeChecking + PLT
 
-- [Classic Conor McBride](http://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
 - [Parametric HOAS](http://adam.chlipala.net/papers/PhoasICFP08/PhoasICFP08.pdf)
 - [Tutorial on Bidirectional Type Inference](http://davidchristiansen.dk/tutorials/bidirectional.pdf)
 - [Tutorial Implementation of Dependent Types](https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf)
