@@ -64,6 +64,7 @@
 - [Data types a la carte](http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf)
 - [Trees that grow](https://www.microsoft.com/en-us/research/uploads/prod/2016/11/trees-that-grow.pdf)
 - [I am not a Number, I am a Free Variable!](http://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
+- [Notions of Computation as Monoids - Exequiel Rivas, Mauro Jaskelioff https://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids_ext.pdf]
 
 #### Algebra of programming
 
