@@ -1,10 +1,17 @@
 ## A List of Foundational Haskell Papers
 
+- [A History of Haskell: being lazy with class](https://www.iro.umontreal.ca/~monnier/2035/history.pdf)
+
 #### The Beginning: The Eugenio Moggi Papers
 
 - [Notions of Computations over Monads](https://core.ac.uk/download/pdf/21173011.pdf)
 - [Computational Lambda Calculus and Monads](https://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf)
 - [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
+- [The essence of functional programming](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.9361&rep=rep1&type=pdf) 
+
+#### Propositions as Types
+
+- [Propositons as Types](https://pdfs.semanticscholar.org/1dc4/2af9a52032fcee178865a6be7ac2f46c9ff4.pdf)
 
 #### Haskell Semantics and Design Spaces
 
