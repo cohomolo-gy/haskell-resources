@@ -20,6 +20,7 @@
 - [Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/04/classhask.pdf)
 - [Lazy State Threads](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
 - [General State](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf)
+- [The Spineless Tagless G-machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf)
 - [An Exploration of the Design space of Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1997/01/multi.pdf)
 - [Functional Dependencies](https://www.cs.tufts.edu/comp/150FP/archive/mark-jones/fundeps.pdf)
 - [Rank-n Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fhigher-rank%2Fputting.pdf)
