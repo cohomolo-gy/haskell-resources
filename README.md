@@ -11,7 +11,7 @@
 
 #### Propositions as Types
 
-- [Propositons as Types](https://pdfs.semanticscholar.org/1dc4/2af9a52032fcee178865a6be7ac2f46c9ff4.pdf)
+- [Propositions as Types](https://pdfs.semanticscholar.org/1dc4/2af9a52032fcee178865a6be7ac2f46c9ff4.pdf)
 
 #### Haskell Semantics and Design Spaces
 
