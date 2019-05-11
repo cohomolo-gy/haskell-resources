@@ -1,5 +1,7 @@
 ## A List of Foundational Haskell Papers
 
+#### History
+
 - [A History of Haskell: being lazy with class](https://www.iro.umontreal.ca/~monnier/2035/history.pdf)
 
 #### The Beginning: The Eugenio Moggi Papers
