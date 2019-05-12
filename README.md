@@ -24,6 +24,8 @@
 - [General State](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf)
 - [The Spineless Tagless G-machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf)
 - [An Exploration of the Design space of Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1997/01/multi.pdf)
+- [A Generic Deriving Mechanism for Haskell](http://dreixel.net/research/pdf/gdmh.pdf)
+- [True Sums of Products](http://delivery.acm.org/10.1145/2640000/2633634/p83-devries.pdf?ip=100.38.122.221&id=2633634&acc=AUTHOR-IZED&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E18286050A21BD399&__acm__=1557636794_d787d477c48acc6384299be883f40389)
 - [Functional Dependencies](https://www.cs.tufts.edu/comp/150FP/archive/mark-jones/fundeps.pdf)
 - [Rank-n Types](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fhigher-rank%2Fputting.pdf)
 - [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
