@@ -39,7 +39,7 @@ This repo is a collection of _links_ to various papers, and as such, may go out 
 - [Kind Promotion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p53-yorgey.pdf)
 - [Stream Fusion. From Lists to Streams to Nothing at All](http://fun.cs.tufts.edu/stream-fusion.pdf)
 
-#### Type Systems
+#### Type Systems and Lambda Calculi
 
 - [Lambda Calculus with Types](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 - [The Call by Need Lambda Calculus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1889&rep=rep1&type=pdf)
