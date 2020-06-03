@@ -2,7 +2,10 @@
 
 ### A Quick Note about Licensing
 
-This repo is a collection of _links_ to various papers, and as such, may go out of date intermittently as resources shuffle around the web. It would be greatly appreciated if people raise issues when these pdf's have dead links, as it helps us all maintain the most up to date set of resources. Additionally, you may find that the "set of links" approach is tedious. This is done to avoid any sort of licensing concerns. If anyone has a better idea of the implications (especially licensing) of hosting the actual papers, the end goal would ideally be to serve as a kind of library. Feel free to find me to discuss. Thanks, Emily.
+This repo is a collection of _links_ to various papers, and as such, may go out of date intermittently as resources shuffle around the web. It would be greatly appreciated if people raise issues when these pdf's have dead links, as it helps us all maintain the most up to date set of resources. Additionally, you may find that the "set of links" approach is tedious. This is done to avoid any sort of licensing concerns. If anyone has a better idea of the implications (especially licensing) of hosting the actual papers, the end goal would ideally be to serve as a kind of library. Feel free to find me to discuss. 
+
+Thanks, Emily.
+
 #### History
 
 - [A History of Haskell: being lazy with class](https://www.iro.umontreal.ca/~monnier/2035/history.pdf)
