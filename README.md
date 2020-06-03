@@ -26,9 +26,6 @@ Thanks, Emily.
 - [Semantics](https://www.microsoft.com/en-us/research/wp-content/uploads/1991/03/A-Static-Semantics-for-Haskell_small.pdf)
 - [How to make ad hoc polymorphism less ad hoc](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
 - [Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/04/classhask.pdf)
-- [Lazy State Threads](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
-- [General State](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf)
-- [The Spineless Tagless G-machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf)
 - [An Exploration of the Design space of Type Classes](https://www.microsoft.com/en-us/research/wp-content/uploads/1997/01/multi.pdf)
 - [A Generic Deriving Mechanism for Haskell](http://dreixel.net/research/pdf/gdmh.pdf)
 - [True Sums of Products](http://edsko.net/pubs/TrueSumsOfProducts.pdf)
@@ -40,6 +37,15 @@ Thanks, Emily.
 - [GADTs](https://ecommons.cornell.edu/bitstream/handle/1813/5614/TR2003-1901.pdf?sequence=1)
 - [First Class Modules in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/first_class_modules.pdf)
 - [Kind Promotion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p53-yorgey.pdf)
+
+#### Under the Hood (Where the sausage is made)
+
+- [Let-floating](https://www.microsoft.com/en-us/research/wp-content/uploads/1996/05/float.pdf)
+- [Parallel Garbage Collection](https://simonmar.github.io/bib/papers/parallel-gc.pdf)
+- [Tackling the Awkward Squad](microsoft.com/en-us/research/wp-content/uploads/2016/07/mark.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fmarktoberdorf%2Fmark.pdf)
+- [Lazy State Threads](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
+- [General State](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf)
+- [The Spineless Tagless G-machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf)
 - [Stream Fusion. From Lists to Streams to Nothing at All](http://fun.cs.tufts.edu/stream-fusion.pdf)
 
 #### Type Systems and Lambda Calculi
