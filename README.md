@@ -47,6 +47,7 @@ Thanks, Emily.
 - [Lazy State Threads](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
 - [General State](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf)
 - [The Spineless Tagless G-machine](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/04/spineless-tagless-gmachine.pdf)
+- [Making a Fast Curry - (STG Sequel)](https://www.cs.tufts.edu/comp/150FP/archive/simon-peyton-jones/eval-apply-jfp.pdf)
 - [Stream Fusion. From Lists to Streams to Nothing at All](http://fun.cs.tufts.edu/stream-fusion.pdf)
 
 #### Type Systems and Lambda Calculi
