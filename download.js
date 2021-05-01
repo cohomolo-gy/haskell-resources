@@ -41,9 +41,8 @@ const reducer = (p, c) => {
     p.current = c.split('#### ')[1];
     p.links[p.current] = p.links[p.current] || [];
   } else if (p.current) {
-    const name = c.match(/\[(.*)\]/)[1]
-    const url = c.match(/\]\((.*)\)/)[1]
-    const obj = { name, url }
+    const match = c.match (/\[(.*)]\((.*)\)/)
+    const obj = { match[1], match[2] }
 
     p.links[p.current].push(obj)
   }
