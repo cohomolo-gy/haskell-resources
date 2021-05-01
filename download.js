@@ -42,7 +42,7 @@ const reducer = (p, c) => {
     p.links[p.current] = p.links[p.current] || [];
   } else if (p.current) {
     const name = c.match(/\[(.*)\]/)[1]
-    const url = c.match(/\((.*)\)/)[1]
+    const url = c.match(/\]\((.*)\)/)[1]
     const obj = { name, url }
 
     p.links[p.current].push(obj)
