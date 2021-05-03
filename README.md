@@ -19,7 +19,7 @@ Thanks, Emily.
 
 #### Propositions as Types
 
-- [Propositions as Types](https://pdfs.semanticscholar.org/1dc4/2af9a52032fcee178865a6be7ac2f46c9ff4.pdf)
+- [Propositions as Types](https://www.pure.ed.ac.uk/ws/portalfiles/portal/20001186/propositions_as_types.pdf)
 
 #### Haskell Semantics and Design Spaces
 
@@ -56,7 +56,7 @@ Thanks, Emily.
 - [The Call by Need Lambda Calculus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1889&rep=rep1&type=pdf)
 - [The Lazy Lambda Calculus](https://www.cs.ox.ac.uk/files/293/lazy.pdf)
 - [Hindley-Milner Systems](http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf)
-- [Generalized Hindley-Milner Systems](http://soft.vub.ac.be/~cfscholl/Capita-Selecta-2015/papers/2002%20Heeren.pdf)
+- [Generalized Hindley-Milner Systems](http://www.cs.uu.nl/research/techreps/repo/CS-2002/2002-031.pdf)
 - [System F with type equality coercion](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fext-f%2Ftldi22-sulzmann-with-appendix.pdf)
 - [System FC with Kind Equality](https://cs.brynmawr.edu/~rae/papers/2013/fckinds/fckinds-extended.pdf)
 
