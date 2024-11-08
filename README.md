@@ -91,6 +91,7 @@ Thanks, Emily.
 - [Trees that grow](https://www.microsoft.com/en-us/research/uploads/prod/2016/11/trees-that-grow.pdf)
 - [I am not a Number, I am a Free Variable!](http://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
 - [Notions of Computation as Monoids - Exequiel Rivas, Mauro Jaskelioff](https://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids_ext.pdf)
+- [Algebraic Graphs with Class](https://dl.acm.org/doi/pdf/10.1145/3122955.3122956)
 
 #### Algebra of programming
 
